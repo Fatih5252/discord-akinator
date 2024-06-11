@@ -1,0 +1,14 @@
+{
+  "name": "discord-akinator",
+  "version": "1.0.5",
+  "description": "a akinator api discord bot where you can create an akinator discord command!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aki-api": "^7.0.1"
+  }
+}
