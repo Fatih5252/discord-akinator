@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "publishConfig": {
+  "@fatih5252:registry": "https://npm.pkg.github.com"
+  }
+  "author": "Fatih",
   "license": "ISC",
   "dependencies": {
     "aki-api": "^7.0.1"
