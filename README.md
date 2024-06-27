@@ -1,4 +1,5 @@
 # Discord-Akinator
+[![NPM](https://nodei.co/npm/discord-akinator.png)](https://nodei.co/npm/discord-akinator/)
 
 this is the [discord Akinator package](https://npmjs.com/package/discord-akinator).
 <br>
